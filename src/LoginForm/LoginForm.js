@@ -14,6 +14,20 @@ const reqInput = (formType) => {
 };
 
 const LoginForm = () => {
+  const btnStyle = {
+    class: 'sbmtBtn',
+    color: "black",
+    backgroundColor: 'grey',
+    padding: "12px 10px",
+    textAlign: "center",
+    textDecoration: "none",
+    display: "inline-block",
+    fontSize: "10px",
+    margin: "4px 2px",
+    cursor: "pointer",
+    fontWeight: "bold",
+    text: "Submit"
+  };
 
   return (<div>
     {reqInput("Username")}
@@ -24,7 +38,8 @@ const LoginForm = () => {
     <label> Remember Me?</label>
     <br/><br/>
     <Button
-    text="Submit"
+    style={btnStyle}
+    text='Submit'
     />
   </div>)
 };
