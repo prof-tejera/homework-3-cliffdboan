@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework-3-cliffdboan/static/css/main.33ffe706.css",
+    "main.js": "/homework-3-cliffdboan/static/js/main.d1c66d05.js",
+    "index.html": "/homework-3-cliffdboan/index.html",
+    "main.33ffe706.css.map": "/homework-3-cliffdboan/static/css/main.33ffe706.css.map",
+    "main.d1c66d05.js.map": "/homework-3-cliffdboan/static/js/main.d1c66d05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ffe706.css",
+    "static/js/main.d1c66d05.js"
+  ]
+}
