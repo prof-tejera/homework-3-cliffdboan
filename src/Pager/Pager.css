@@ -1,0 +1,17 @@
+.pager {
+    font-family:sans-serif;
+    font-weight: bold;
+    margin: 4px, 2px;
+    display: inline-block;
+    text-align: center;
+    border: none;
+    color: blue;
+    background: none;
+}
+
+.pager:hover {
+    background: fixed;
+    background-color: cadetblue;
+    cursor: pointer;
+    border-radius: 2pt;
+}
