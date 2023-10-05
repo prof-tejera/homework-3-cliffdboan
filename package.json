@@ -1,6 +1,7 @@
 {
   "name": "homework-3",
   "version": "0.1.0",
+  "homepage": "https://prof-tejera.github.io/homework-3-cliffdboan",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
